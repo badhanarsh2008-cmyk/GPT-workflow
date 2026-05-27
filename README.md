@@ -1,10 +1,3 @@
 ﻿# GPT-workflow
 # GPT-workflow
 
-In here you will find all the workflow related to supervised learning model.
-in LLm folder theres linear, logistic and other models simple practice programs.
-datacleaner, enhancer are two of my side project.
-gpt from scratch is all about generative pretrained transformer. ( workflow )
-pytorch and spacy has their own documentation inside their ipynb file.
-
-thank you!!
